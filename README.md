@@ -16,16 +16,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=blue)](http://linkedin.com/in/sunidhi-chetri/)
 [![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white&color=red)](https://in.pinterest.com/sunidhiyk/)
-
-## 🎵 Now Playing on the Tracks
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=qxh34xxt3betjqt0mkkftw5da&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
-
-## 📊 Urban GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sunidhiyk&show_icons=true&theme=merko)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunidhiyk&layout=compact&theme=merko)
-
-## 👀 Visitor Counter
-
-![Visitor Count](https://profile-counter.glitch.me/sunidhiyk/count.svg)
