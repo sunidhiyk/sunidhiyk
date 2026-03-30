@@ -19,7 +19,7 @@
 
 ## 🎵 Now Playing on the Tracks
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=sunidhiyk&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=qxh34xxt3betjqt0mkkftw5da&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
 ## 📊 Urban GitHub Stats
 
